@@ -27,7 +27,7 @@ public class Pruebas {
 		for(TbUsuario u: lstUsuario){
 			System.out.println("usuario: "+u.getNomUsua()+ " " + u.getApeUsua()+ " "+ u.getClaUsua());
 		}
-		System.out.println("==============================================");
+		
 		
 		/*Búsqueda de usuario con id=2*/
 		/*System.out.println("Buscar usuario con id=2");
